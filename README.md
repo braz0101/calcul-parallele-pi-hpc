@@ -1,4 +1,4 @@
-# ⚡ Calcul Parallèle de π — HPC · M2 SRT / GLSI
+# ⚡ Calcul Parallèle de π — HPC · M2 SRT
 
 **ESP Dakar · UCAD — Année universitaire 2025–2026**  
 **Auteur : Ibrahima FALL**
@@ -109,7 +109,7 @@ Dans chaque fichier `parallel/` :
 
 ## 👤 Auteur
 
-**Ibrahima FALL** — Master 2 SRT / GLSI  
+**Ibrahima FALL** — Master 2 SRT
 ESP Dakar · UCAD · 2025–2026  
 Cours : Calcul Parallèle et High Performance Computing  
 Professeur : Dr. Abdourahmane SENGHOR
